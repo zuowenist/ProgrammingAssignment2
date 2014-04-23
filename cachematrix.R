@@ -1,4 +1,4 @@
-## Besically clone from makeVector() and cachemean(),add a bit of warning functions
+## Basically clone from makeVector() and cachemean(),add a bit of warning functions
 ## that can distinguish two types of uninversiable matrix.
 
 ## This function creates a special "matrix" object that can cache its inverse.
